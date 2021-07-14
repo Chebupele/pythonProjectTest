@@ -11,3 +11,4 @@ print(words.count('мама'))
 a = 'окно'
 print(a.count('о'))
 print(a[1])
+print('papa' in words)
